@@ -1,0 +1,11 @@
+﻿@model Internet_Tehnologii_Lab2_222015.Models.EventModel
+
+<h2>Delete Event</h2>
+<p>Are you sure you want to delete the event "<strong>@Model.Name</strong>"?</p>
+
+@using (Html.BeginForm("DeleteConfirmed", "Event", new { id = Model.EventID }, FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    <button type="submit" class="btn btn-danger">Yes</button>
+    @Html.ActionLink("No", "DisplayAllEvents", null, new { @class = "btn btn-default" })
+}

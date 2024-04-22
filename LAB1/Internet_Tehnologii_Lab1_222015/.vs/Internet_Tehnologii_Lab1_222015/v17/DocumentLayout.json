@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\IT_LABS\\LAB1\\Internet_Tehnologii_Lab1_222015\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4A1710-02F4-486B-B948-A0F251366612}|Internet_Tehnologii_Lab1_222015\\Internet_Tehnologii_Lab1_222015.csproj|c:\\users\\asus\\source\\repos\\it_labs\\lab1\\internet_tehnologii_lab1_222015\\internet_tehnologii_lab1_222015\\glasaj.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D4A1710-02F4-486B-B948-A0F251366612}|Internet_Tehnologii_Lab1_222015\\Internet_Tehnologii_Lab1_222015.csproj|solutionrelative:internet_tehnologii_lab1_222015\\glasaj.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4A1710-02F4-486B-B948-A0F251366612}|Internet_Tehnologii_Lab1_222015\\Internet_Tehnologii_Lab1_222015.csproj|C:\\Users\\Asus\\source\\repos\\IT_LABS\\LAB1\\Internet_Tehnologii_Lab1_222015\\internet_tehnologii_lab1_222015\\najava.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D4A1710-02F4-486B-B948-A0F251366612}|Internet_Tehnologii_Lab1_222015\\Internet_Tehnologii_Lab1_222015.csproj|solutionrelative:internet_tehnologii_lab1_222015\\najava.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4A1710-02F4-486B-B948-A0F251366612}|Internet_Tehnologii_Lab1_222015\\Internet_Tehnologii_Lab1_222015.csproj|C:\\Users\\Asus\\source\\repos\\IT_LABS\\LAB1\\Internet_Tehnologii_Lab1_222015\\internet_tehnologii_lab1_222015\\najava.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8D4A1710-02F4-486B-B948-A0F251366612}|Internet_Tehnologii_Lab1_222015\\Internet_Tehnologii_Lab1_222015.csproj|solutionrelative:internet_tehnologii_lab1_222015\\najava.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4A1710-02F4-486B-B948-A0F251366612}|Internet_Tehnologii_Lab1_222015\\Internet_Tehnologii_Lab1_222015.csproj|c:\\users\\asus\\source\\repos\\it_labs\\lab1\\internet_tehnologii_lab1_222015\\internet_tehnologii_lab1_222015\\glasaj.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8D4A1710-02F4-486B-B948-A0F251366612}|Internet_Tehnologii_Lab1_222015\\Internet_Tehnologii_Lab1_222015.csproj|solutionrelative:internet_tehnologii_lab1_222015\\glasaj.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4A1710-02F4-486B-B948-A0F251366612}|Internet_Tehnologii_Lab1_222015\\Internet_Tehnologii_Lab1_222015.csproj|C:\\Users\\Asus\\source\\repos\\IT_LABS\\LAB1\\Internet_Tehnologii_Lab1_222015\\internet_tehnologii_lab1_222015\\uspesnoglasanje.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8D4A1710-02F4-486B-B948-A0F251366612}|Internet_Tehnologii_Lab1_222015\\Internet_Tehnologii_Lab1_222015.csproj|solutionrelative:internet_tehnologii_lab1_222015\\uspesnoglasanje.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Najava.aspx",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\IT_LABS\\LAB1\\Internet_Tehnologii_Lab1_222015\\Internet_Tehnologii_Lab1_222015\\Najava.aspx",
+              "RelativeDocumentMoniker": "Internet_Tehnologii_Lab1_222015\\Najava.aspx",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\IT_LABS\\LAB1\\Internet_Tehnologii_Lab1_222015\\Internet_Tehnologii_Lab1_222015\\Najava.aspx",
+              "RelativeToolTip": "Internet_Tehnologii_Lab1_222015\\Najava.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-11T16:21:28.187Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Najava.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\IT_LABS\\LAB1\\Internet_Tehnologii_Lab1_222015\\Internet_Tehnologii_Lab1_222015\\Najava.aspx.cs",
+              "RelativeDocumentMoniker": "Internet_Tehnologii_Lab1_222015\\Najava.aspx.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\IT_LABS\\LAB1\\Internet_Tehnologii_Lab1_222015\\Internet_Tehnologii_Lab1_222015\\Najava.aspx.cs",
+              "RelativeToolTip": "Internet_Tehnologii_Lab1_222015\\Najava.aspx.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAawA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T16:39:13.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Glasaj.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\IT_LABS\\LAB1\\Internet_Tehnologii_Lab1_222015\\Internet_Tehnologii_Lab1_222015\\Glasaj.aspx.cs",
+              "RelativeDocumentMoniker": "Internet_Tehnologii_Lab1_222015\\Glasaj.aspx.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\IT_LABS\\LAB1\\Internet_Tehnologii_Lab1_222015\\Internet_Tehnologii_Lab1_222015\\Glasaj.aspx.cs",
+              "RelativeToolTip": "Internet_Tehnologii_Lab1_222015\\Glasaj.aspx.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAewDgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T15:44:44.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Glasaj.aspx",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\IT_LABS\\LAB1\\Internet_Tehnologii_Lab1_222015\\Internet_Tehnologii_Lab1_222015\\Glasaj.aspx",
+              "RelativeDocumentMoniker": "Internet_Tehnologii_Lab1_222015\\Glasaj.aspx",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\IT_LABS\\LAB1\\Internet_Tehnologii_Lab1_222015\\Internet_Tehnologii_Lab1_222015\\Glasaj.aspx",
+              "RelativeToolTip": "Internet_Tehnologii_Lab1_222015\\Glasaj.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-13T15:43:41.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UspesnoGlasanje.aspx",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\IT_LABS\\LAB1\\Internet_Tehnologii_Lab1_222015\\Internet_Tehnologii_Lab1_222015\\UspesnoGlasanje.aspx",
+              "RelativeDocumentMoniker": "Internet_Tehnologii_Lab1_222015\\UspesnoGlasanje.aspx",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\IT_LABS\\LAB1\\Internet_Tehnologii_Lab1_222015\\Internet_Tehnologii_Lab1_222015\\UspesnoGlasanje.aspx",
+              "RelativeToolTip": "Internet_Tehnologii_Lab1_222015\\UspesnoGlasanje.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-11T17:21:36.248Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

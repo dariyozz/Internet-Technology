@@ -1,0 +1,27 @@
+﻿@using Internet_Tehnologii_Lab2_222015.Models
+
+@model Internet_Tehnologii_Lab2_222015.Models.EventModel
+
+
+<h2>Измени настан</h2>
+
+@using (Html.BeginForm("Edit","Event"))
+{
+    @Html.HiddenFor(model => model.EventID)
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Name)
+        @Html.TextBoxFor(model => model.Name, new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.Name)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Location)
+        @Html.TextBoxFor(model => model.Location, new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.Location)
+    </div>
+
+    <button type="submit" class="btn btn-primary">Измени</button>
+    @Html.ActionLink("Откажи", "DisplayAllEvents", null, new { @class = "btn btn-default" })
+}
+

@@ -1,0 +1,29 @@
+﻿@using Internet_Tehnologii_Lab2_222015.Models;
+
+@model IEnumerable<EventModel>
+
+<h2>Сите Настани</h2>
+
+<p>@Html.ActionLink("Додади нов настан", "CreateEvent",null,new {@class = "btn btn-primary"})</p>
+
+<table class="table">
+    <tr>
+        <th>Име</th>
+        <th>Локација</th>
+        <th>Акции</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.EventID</td>
+            <td>@item.Name</td>
+            <td>@item.Location</td>
+            <td>
+                @Html.ActionLink("Измени", "Edit", new { id = item.EventID }, new { @class = "btn btn-success" }) |
+                @Html.ActionLink("Избриши", "Delete", new { id = item.EventID }, new { @class = "btn btn-danger" })
+            </td>
+        </tr>
+    }
+</table>
+
+

@@ -1,0 +1,23 @@
+﻿@model Internet_Tehnologii_Lab2_222015.Models.EventModel
+
+<h1>New Event Details</h1>
+
+<div>
+    <table class="table">
+        <tr>
+            <td><strong>Name:</strong></td>
+            <td>@Model.EventID</td>
+        </tr>
+        <tr>
+            <td><strong>Location:</strong></td>
+            <td>@Model.Name</td>
+        </tr>
+        <tr>
+            <td><strong>Date:</strong></td>
+            <td>@Model.Location</td>
+        </tr>
+    </table>
+</div>
+
+
+@Html.ActionLink("View All Events", "DisplayAllEvents","Event",new { @class = "btn btn-primary"  })
