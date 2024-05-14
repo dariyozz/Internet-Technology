@@ -1,0 +1,20 @@
+﻿@model Internet_Tehnologii_Lab3_222015.Models.Doctor
+
+@{
+    ViewBag.Title = "AddPatient";
+}
+
+<h2>Додади пациент кај @ViewBag.DoctorName</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    @Html.Hidden("id", Model)
+    <div class="form-group">
+        <label asp-for="PatientId">Пациент</label>
+        @Html.DropDownList("patientId", ViewBag.Patients as SelectList, "-- Избери пациент --", new { @class = "form-control" })
+    </div>
+
+    <button type="submit" class="btn btn-primary">Додади пациент</button>
+}
+

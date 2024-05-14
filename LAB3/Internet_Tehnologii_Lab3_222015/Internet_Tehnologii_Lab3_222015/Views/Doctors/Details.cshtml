@@ -1,0 +1,50 @@
+﻿@using Internet_Tehnologii_Lab3_222015.Models
+@model Internet_Tehnologii_Lab3_222015.Models.Doctor
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Doctor</h4>
+    <hr/>
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Hospital.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Hospital.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+    </dl>
+</div>
+<div class="my-5">
+    <h2>Детали за доктор: @Model.Name</h2>
+
+    <ul>
+        @foreach (var patient in Model.Patients)
+        {
+            <li>
+                <a asp-controller="Patients" asp-action="Details" asp-route-id="@patient.PatientId">@patient.Name</a>
+            </li>
+        }
+    </ul>
+    @Html.ActionLink("Додади пациент", "AddPatient", "Doctors",new{id = Model.DoctorId},new {@class="btn btn-primary"})
+
+
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.DoctorId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
