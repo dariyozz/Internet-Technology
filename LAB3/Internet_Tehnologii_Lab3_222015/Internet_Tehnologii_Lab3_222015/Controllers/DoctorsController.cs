@@ -127,7 +127,7 @@ namespace Internet_Tehnologii_Lab3_222015.Controllers
             return RedirectToAction("Index");
         }
 
-        public ActionResult AddPatient(int ?id)
+        public ActionResult AddPatient(int? id)
         {
             if (id == null)
             {
@@ -142,13 +142,13 @@ namespace Internet_Tehnologii_Lab3_222015.Controllers
 
             ViewBag.DoctorName = doctor.Name;
             ViewBag.PatientId = new SelectList(db.Patients, "PatientId", "Name");
-            return View();
+            return View("AddPatient", doctor);
         }
 
-// POST: Doctors/AddPatient/5
+        // POST: Doctors/AddPatient/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult AddPatient(int id, int? patientId)
+        public ActionResult InsertNewPatient(int id, int patientId)
         {
             var doctor = db.Doctors.Include(d => d.Patients).FirstOrDefault(d => d.DoctorId == id);
             if (doctor == null)
@@ -165,8 +165,9 @@ namespace Internet_Tehnologii_Lab3_222015.Controllers
             doctor.Patients.Add(patient);
             db.SaveChanges();
 
-            return RedirectToAction("Details");
+            return RedirectToAction("Details", new { id = doctor.DoctorId });
         }
+
 
         protected override void Dispose(bool disposing)
         {

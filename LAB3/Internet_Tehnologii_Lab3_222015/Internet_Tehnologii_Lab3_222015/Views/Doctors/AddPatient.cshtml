@@ -6,15 +6,13 @@
 
 <h2>Додади пациент кај @ViewBag.DoctorName</h2>
 
-@using (Html.BeginForm())
+@using (Html.BeginForm("InsertNewPatient", "Doctors", FormMethod.Post))
 {
     @Html.AntiForgeryToken()
-    @Html.Hidden("id", Model)
     <div class="form-group">
+        <input type="hidden" name="id" value="@Model.DoctorId" />
         <label asp-for="PatientId">Пациент</label>
-        @Html.DropDownList("patientId", ViewBag.Patients as SelectList, "-- Избери пациент --", new { @class = "form-control" })
+        @Html.DropDownList("patientId", ViewBag.PatientId as SelectList, "-- Избери пациент --", new { @class = "form-control" })
     </div>
-
-    <button type="submit" class="btn btn-primary">Додади пациент</button>
+    <input type="submit" value="Додади пациент" class="btn btn-primary" />
 }
-

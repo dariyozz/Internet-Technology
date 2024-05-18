@@ -7,28 +7,16 @@
       "RelativeMoniker": "D:0:0:{1A60528B-07E9-439C-BC43-4098B3961401}|Internet_Tehnologii_Lab3_222015\\Internet_Tehnologii_Lab3_222015.csproj|solutionrelative:internet_tehnologii_lab3_222015\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A60528B-07E9-439C-BC43-4098B3961401}|Internet_Tehnologii_Lab3_222015\\Internet_Tehnologii_Lab3_222015.csproj|c:\\users\\asus\\source\\repos\\it_labs\\lab3\\internet_tehnologii_lab3_222015\\internet_tehnologii_lab3_222015\\views\\doctors\\addpatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1A60528B-07E9-439C-BC43-4098B3961401}|Internet_Tehnologii_Lab3_222015\\Internet_Tehnologii_Lab3_222015.csproj|C:\\Users\\Asus\\source\\repos\\IT_LABS\\LAB3\\Internet_Tehnologii_Lab3_222015\\internet_tehnologii_lab3_222015\\views\\doctors\\addpatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1A60528B-07E9-439C-BC43-4098B3961401}|Internet_Tehnologii_Lab3_222015\\Internet_Tehnologii_Lab3_222015.csproj|solutionrelative:internet_tehnologii_lab3_222015\\views\\doctors\\addpatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A60528B-07E9-439C-BC43-4098B3961401}|Internet_Tehnologii_Lab3_222015\\Internet_Tehnologii_Lab3_222015.csproj|c:\\users\\asus\\source\\repos\\it_labs\\lab3\\internet_tehnologii_lab3_222015\\internet_tehnologii_lab3_222015\\views\\doctors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1A60528B-07E9-439C-BC43-4098B3961401}|Internet_Tehnologii_Lab3_222015\\Internet_Tehnologii_Lab3_222015.csproj|solutionrelative:internet_tehnologii_lab3_222015\\views\\doctors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A60528B-07E9-439C-BC43-4098B3961401}|Internet_Tehnologii_Lab3_222015\\Internet_Tehnologii_Lab3_222015.csproj|c:\\users\\asus\\source\\repos\\it_labs\\lab3\\internet_tehnologii_lab3_222015\\internet_tehnologii_lab3_222015\\models\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1A60528B-07E9-439C-BC43-4098B3961401}|Internet_Tehnologii_Lab3_222015\\Internet_Tehnologii_Lab3_222015.csproj|C:\\Users\\Asus\\source\\repos\\IT_LABS\\LAB3\\Internet_Tehnologii_Lab3_222015\\internet_tehnologii_lab3_222015\\models\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A60528B-07E9-439C-BC43-4098B3961401}|Internet_Tehnologii_Lab3_222015\\Internet_Tehnologii_Lab3_222015.csproj|solutionrelative:internet_tehnologii_lab3_222015\\models\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A60528B-07E9-439C-BC43-4098B3961401}|Internet_Tehnologii_Lab3_222015\\Internet_Tehnologii_Lab3_222015.csproj|c:\\users\\asus\\source\\repos\\it_labs\\lab3\\internet_tehnologii_lab3_222015\\internet_tehnologii_lab3_222015\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A60528B-07E9-439C-BC43-4098B3961401}|Internet_Tehnologii_Lab3_222015\\Internet_Tehnologii_Lab3_222015.csproj|solutionrelative:internet_tehnologii_lab3_222015\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A60528B-07E9-439C-BC43-4098B3961401}|Internet_Tehnologii_Lab3_222015\\Internet_Tehnologii_Lab3_222015.csproj|c:\\users\\asus\\source\\repos\\it_labs\\lab3\\internet_tehnologii_lab3_222015\\internet_tehnologii_lab3_222015\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1A60528B-07E9-439C-BC43-4098B3961401}|Internet_Tehnologii_Lab3_222015\\Internet_Tehnologii_Lab3_222015.csproj|C:\\Users\\Asus\\source\\repos\\IT_LABS\\LAB3\\Internet_Tehnologii_Lab3_222015\\internet_tehnologii_lab3_222015\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A60528B-07E9-439C-BC43-4098B3961401}|Internet_Tehnologii_Lab3_222015\\Internet_Tehnologii_Lab3_222015.csproj|solutionrelative:internet_tehnologii_lab3_222015\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A60528B-07E9-439C-BC43-4098B3961401}|Internet_Tehnologii_Lab3_222015\\Internet_Tehnologii_Lab3_222015.csproj|c:\\users\\asus\\source\\repos\\it_labs\\lab3\\internet_tehnologii_lab3_222015\\internet_tehnologii_lab3_222015\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A60528B-07E9-439C-BC43-4098B3961401}|Internet_Tehnologii_Lab3_222015\\Internet_Tehnologii_Lab3_222015.csproj|solutionrelative:internet_tehnologii_lab3_222015\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -64,48 +52,9 @@
               "RelativeDocumentMoniker": "Internet_Tehnologii_Lab3_222015\\Views\\Doctors\\AddPatient.cshtml",
               "ToolTip": "C:\\Users\\Asus\\source\\repos\\IT_LABS\\LAB3\\Internet_Tehnologii_Lab3_222015\\Internet_Tehnologii_Lab3_222015\\Views\\Doctors\\AddPatient.cshtml",
               "RelativeToolTip": "Internet_Tehnologii_Lab3_222015\\Views\\Doctors\\AddPatient.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-14T17:22:36.927Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\IT_LABS\\LAB3\\Internet_Tehnologii_Lab3_222015\\Internet_Tehnologii_Lab3_222015\\Views\\Doctors\\Details.cshtml",
-              "RelativeDocumentMoniker": "Internet_Tehnologii_Lab3_222015\\Views\\Doctors\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\IT_LABS\\LAB3\\Internet_Tehnologii_Lab3_222015\\Internet_Tehnologii_Lab3_222015\\Views\\Doctors\\Details.cshtml",
-              "RelativeToolTip": "Internet_Tehnologii_Lab3_222015\\Views\\Doctors\\Details.cshtml",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAACoAAABWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-14T17:13:46.534Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PatientsController.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\IT_LABS\\LAB3\\Internet_Tehnologii_Lab3_222015\\Internet_Tehnologii_Lab3_222015\\Controllers\\PatientsController.cs",
-              "RelativeDocumentMoniker": "Internet_Tehnologii_Lab3_222015\\Controllers\\PatientsController.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\IT_LABS\\LAB3\\Internet_Tehnologii_Lab3_222015\\Internet_Tehnologii_Lab3_222015\\Controllers\\PatientsController.cs",
-              "RelativeToolTip": "Internet_Tehnologii_Lab3_222015\\Controllers\\PatientsController.cs",
-              "ViewState": "AQIAAGMAAAAAAAAAAAAAABMAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T15:16:30.298Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Patient.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\IT_LABS\\LAB3\\Internet_Tehnologii_Lab3_222015\\Internet_Tehnologii_Lab3_222015\\Models\\Patient.cs",
-              "RelativeDocumentMoniker": "Internet_Tehnologii_Lab3_222015\\Models\\Patient.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\IT_LABS\\LAB3\\Internet_Tehnologii_Lab3_222015\\Internet_Tehnologii_Lab3_222015\\Models\\Patient.cs",
-              "RelativeToolTip": "Internet_Tehnologii_Lab3_222015\\Models\\Patient.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T14:24:33.271Z",
               "EditorCaption": ""
             },
             {
@@ -116,14 +65,14 @@
               "RelativeDocumentMoniker": "Internet_Tehnologii_Lab3_222015\\Controllers\\DoctorsController.cs",
               "ToolTip": "C:\\Users\\Asus\\source\\repos\\IT_LABS\\LAB3\\Internet_Tehnologii_Lab3_222015\\Internet_Tehnologii_Lab3_222015\\Controllers\\DoctorsController.cs",
               "RelativeToolTip": "Internet_Tehnologii_Lab3_222015\\Controllers\\DoctorsController.cs",
-              "ViewState": "AQIAAKUAAAAAAAAAAAArwKsAAAAJAAAA",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAkwKUAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-14T14:58:34.44Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Hospital.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\IT_LABS\\LAB3\\Internet_Tehnologii_Lab3_222015\\Internet_Tehnologii_Lab3_222015\\Models\\Hospital.cs",
               "RelativeDocumentMoniker": "Internet_Tehnologii_Lab3_222015\\Models\\Hospital.cs",
@@ -131,12 +80,11 @@
               "RelativeToolTip": "Internet_Tehnologii_Lab3_222015\\Models\\Hospital.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAcwAwAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T14:25:10.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T14:25:10.953Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Doctor.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\IT_LABS\\LAB3\\Internet_Tehnologii_Lab3_222015\\Internet_Tehnologii_Lab3_222015\\Models\\Doctor.cs",
               "RelativeDocumentMoniker": "Internet_Tehnologii_Lab3_222015\\Models\\Doctor.cs",
@@ -144,8 +92,7 @@
               "RelativeToolTip": "Internet_Tehnologii_Lab3_222015\\Models\\Doctor.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAAAAwAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T14:24:57.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T14:24:57.693Z"
             }
           ]
         }
